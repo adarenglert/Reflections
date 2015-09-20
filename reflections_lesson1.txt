@@ -1,0 +1,22 @@
+lesson 1- Questions
+1.the operation showed me the exact lines that has the typo.
+2.having access to all history of a file is convient because
+ you don't always know when you make the mistake, so you can
+just scroll to the past and see, the exact moment which the 
+error occured.
+3. the pros are that you can choose the size of the intervals
+between the commits' whether it too big or too small change.
+the cons are that it's based on user actions and can be highly
+affected by user errors.
+4.when coding, most of the time you use a multiple files that
+connected one to another, so when you change 1 file you changed
+probalby changed the relation and so you changed the other file
+as well.
+in the other platforms' most of the time you modify only 1 file
+at a time, so it's not nessecery to save multiply files versions.
+5.you shold use git log for getting the log of all the changes of
+the file, and git diff for comparing the last change to the original 
+content.
+6. because you know that if something will go wrong you can always 
+go back and see what was the origin of the problem.
+7. I would like to use git for controling my android app versions.
