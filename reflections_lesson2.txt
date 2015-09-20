@@ -1,0 +1,4 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+when you intialize a repo the .git dir is created, and you do it to start controlling your versions.
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is diffrent from the working dir and the repo, because it's not an acutal dir, it's a process. it lets control which file will be commited.
