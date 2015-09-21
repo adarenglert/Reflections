@@ -8,3 +8,5 @@ when adding the changes to the staging area you need to make sure that the chang
 while developing new language for the app, testing new features, etc. youd like to save the master version and try diffrent process.
 5.How do the diagrams help you visualize the branch structure?
 it shows the timeline of commits and changes, and define between one branch to another which let you id what changes on what branch made at what time.
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is on combined branch that have all the commits from both of the merged branches
