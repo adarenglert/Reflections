@@ -10,3 +10,5 @@ while developing new language for the app, testing new features, etc. youd like 
 it shows the timeline of commits and changes, and define between one branch to another which let you id what changes on what branch made at what time.
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 the result is on combined branch that have all the commits from both of the merged branches
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+sometimes automatic merge requiers high proccesing power to analize what are the changes between to version of the file, while someone who know the code could solve the problem quiet easily and quick.
