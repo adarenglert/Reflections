@@ -2,3 +2,5 @@
 when you intialize a repo the .git dir is created, and you do it to start controlling your versions.
 2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is diffrent from the working dir and the repo, because it's not an acutal dir, it's a process. it lets control which file will be commited.
+3.How can you use the staging area to make sure you have one commit per logical change?
+when adding the changes to the staging area you need to make sure that the changes you made to the file are only 1 logical change.
